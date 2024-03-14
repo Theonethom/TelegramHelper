@@ -1,8 +1,11 @@
 # TelegramHelper
-- 电报助手
-- 此项目已停止维护
-- 此项目已停止维护
-- 此项目已停止维护
+ - Telegram Assistant
+
+ - This project has been discontinued for maintenance
+
+ - This project has been discontinued for maintenance
+
+ - This project has been discontinued for maintenance
 
 # 注意
 - 仅支持基于 Telegram 官方开源的官方版和第三方，且类名、参数名、方法名不被混淆、删减，方法传输的参数不被添加、减少
